@@ -144,8 +144,6 @@ trojan://telegram-id-directvpn@13.60.100.99:22222?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@13.60.100.99:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM
 
-trojan://telegram-id-directvpn@15.157.33.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@15.157.33.231:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://telegram-id-directvpn@18.190.83.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
@@ -163,6 +161,8 @@ trojan://telegram-id-directvpn@3.72.59.101:22222?security=tls&sni=trojan.burgeri
 trojan://telegram-id-directvpn@3.97.76.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@3.97.76.243:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
+
+trojan://telegram-id-directvpn@3.99.88.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@34.239.9.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -218,6 +218,8 @@ wireguard://KO8QeVJiV8Qtui%2FLsR4gBU2%2B58yAptoLD9W5NCXqCW0%3D@188.114.99.119:88
 
 wireguard://MA1LOxNvNFnnn3Rjk16LGPnMKL4ayl0lhdElkIrQP0E%3D@188.114.99.205:928?address=172.16.0.2%2F32&reserved=210%2C149%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-02-04 10:04
 
+wireguard://ONVUpuFpWD%2BC2xRAltNkIHCdfVUrzJiO9O9V788JM2M%3D@[2606:4700:d1::f4c8:9173:aeaa:4f07]:4500?address=gsm.arena&presharedkey=&reserved=233%2C205%2C78&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 wireguard://QIEWjD8H6F4%2B5GrGZdjdT5SnIKJo5mZ%2Bv0joMO4SPm4%3D@188.114.99.20:500?address=172.16.0.2%2F32&reserved=228%2C189%2C196&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
 wireguard://SGYhx8POjywGXlwcbyBE3OMUsIZwq6BPalNPq5ZDNFA%3D@188.114.98.31:942?address=172.16.0.2%2F32&reserved=115%2C192%2C94&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
@@ -229,6 +231,8 @@ wireguard://wKHO5aFrW2gLvlmdM96vWOyIJhMCQXmvF9qPv1vYa2s%3D@188.114.96.143:942?ad
 wireguard://yEeVSPzTIqg%2FA9VChcgUrKuVLGebZIWmsGqBpz6LMXM%3D@zula.ir:3138?address=172.16.0.2%2F32&reserved=73%2C232%2C229&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
 
 wireguard://yOSojhgtjzSrGkTUWot7ju%2F0Tcn27GKPfSQAFv40MmU%3D@188.114.98.206:2408?address=172.16.0.2%2F32&reserved=89%2C96%2C42&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon5
+
+vmess://ewogICAgImFkZCI6ICIxNDIuNC4xMDguMTMxIiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMjgzMTI2MjYxMzAzIiwKICAgICJwb3J0IjogMzgwMDcsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0xNDIuNC4xMDguMTMxLTg0NjQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
 vmess://ewogICAgImFkZCI6ICIzOC4xMS42OS4zNSIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuNTIxNDAzNDEueHl6IiwKICAgICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8xNzM4MTQzNTMzNDc0IiwKICAgICJwb3J0IjogMzAwMDMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy0zOC4xMS42OS4zNS02MDY5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 
@@ -246,9 +250,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiRC1CUk9XTi0xMDI1IiwiYWRkIjoiMTU3LjI0NS40LjE3MCIsInBv
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAzLjE0OS4xODMuMTc4IiwicG9ydCI6IjU0Njc1IiwiaWQiOiIzYTkwNzk1Ni1mNjY4LTRlNmItZWEwMy0wOTQ5ZjBjOWMwYTUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTY1LjIyLjQ3LjYyIiwicG9ydCI6Ijg4ODEiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoibW9pLmlyIiwicGF0aCI6IlwvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIifQ==
-
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTA3LjI0Ny4yMTkiLCJwb3J0Ijo0NjA5MiwiaWQiOiI2ZWVhYmVjYi05YTg4LTRkMTAtODFhZC0wMDRjMzc4NzE2MDQiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBhdGgiOiIiLCJhdXRob3JpdHkiOiIifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTEuMTM0LjY4LjEzNCIsInBvcnQiOjU3NzA3LCJpZCI6ImRjMDQ2NTdmLTcwYmItNGY1ZS1iYWYyLTg4MDUzZmE1NDE3NyIsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicGF0aCI6IiIsImF1dGhvcml0eSI6IiJ9
 
 vmess://eyJhZGQiOiAiMTcyLjIzMy4yMTEuMTQwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyMzAxODU3ZS1lNDg2LTQ0OWUtZTBiZC00ZTIyZjhlYjdhOTkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjMwNjgyIiwgInBzIjogIkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
@@ -287,8 +291,6 @@ vmess://eyJhZGQiOiIxNTcuMjQ1LjQuMTcwIiwiYWlkIjoiMCIsImhvc3QiOiJtb2kuaXIiLCJpZCI6
 vmess://eyJhZGQiOiIxNjUuMjIuNDcuNjIiLCJhaWQiOiIwIiwiaG9zdCI6Im1vaS5pciIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODg4MSIsInBzIjoi8J+RifCfhpRAdjJyYXlfY29uZmlnc19wb29sIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxNzIuMjMzLjIxMS4xNDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjMwMTg1N2UtZTQ4Ni00NDllLWUwYmQtNGUyMmY4ZWI3YTk5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDY4MiIsInBzIjoiQG1lbGlfcHJveHl52LPYsdmI2LHYp9uM4oCM2KjbjNi02KrYsSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxNzIuMjMzLjIxMS4xNDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjMwMTg1N2UtZTQ4Ni00NDllLWUwYmQtNGUyMmY4ZWI3YTk5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDY4MiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 ss://2022-blake3-aes-256-gcm:NjliNDc4ODA1YTRmNDI0N2MwMjQ1NTUzMDhjMjhmZTg%3D%3AZjAzZTNiZjItY2U1Yi00NWVmLTg2ZWYtMTM2YTdlNTc%3D@cn02.crosswall.org:28837#https://t.me/ShadowsocksM
 
